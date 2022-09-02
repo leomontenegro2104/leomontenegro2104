@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Leonardo Montenegro 👋
 
-#### Engenheiro Mecânico por acidente e estudante de Análise de Desenvolvimento de Sistemas pelas UNIFCAS e Desenvolvimento Full-Stack pela Cubos Academy. Tenho solidas softskills desenvolvidas ao longo da experiência no setor de planejamento de manutenção industrial como: comunicação, gestão do tempo/tarefas, gestão de conflitos, entre outras. Baiano amante de tecnologia, games, pets e apaixonado por transformar a vida das pessoas por meio da tecnologia e compartilhamento de conhecimento.
+#### Engenheiro Mecânico por acidente e estudante de Análise de Desenvolvimento de Sistemas pelas UNIFACS e Desenvolvimento Full-Stack pela Cubos Academy. Tenho solidas softskills desenvolvidas ao longo da experiência no setor de planejamento de manutenção industrial como: comunicação, gestão do tempo/tarefas, gestão de conflitos, entre outras. Baiano amante de tecnologia, games, pets e apaixonado por transformar a vida das pessoas por meio da tecnologia e compartilhamento de conhecimento.
 
 <!--
 **leomontenegro2104/leomontenegro2104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

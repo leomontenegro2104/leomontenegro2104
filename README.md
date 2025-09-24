@@ -1,48 +1,39 @@
-### Olá! Eu sou o Leonardo Montenegro 👋
+# Hi, I’m Leonardo — Software Engineer
 
-#### Engenheiro Mecânico por acidente e estudante de Análise de Desenvolvimento de Sistemas pelas UNIFACS e Desenvolvimento Full-Stack pela Cubos Academy. 
+Software Engineer with an **MBA in Full Cycle Architecture**, **7+ years** of Mechanical Engineering background, and **3+ years** building modern web applications with **ReactJS, Python, and NodeJS**. I bridge engineering rigor with product thinking to deliver scalable, maintainable, and user-focused software across **front-end, back-end, and full-stack**.
 
-#### Tenho sólidas softskills desenvolvidas ao longo da experiência no setor de planejamento de manutenção industrial como: comunicação, gestão do tempo/tarefas, gestão de conflitos, entre outras. 
+I’ve led projects, optimized complex systems, and shipped **scalable web solutions** using **React/Next.js, TypeScript, Node.js, Python (Flask/FastAPI)**, aligning technology with business goals. Beyond coding, I care about **architecture, DX, performance, and clean processes**—managing work, guiding teams, and streamlining delivery for consistent, high-impact results.
 
-#### Baiano amante de tecnologia, games, pets e apaixonado por transformar a vida das pessoas por meio da tecnologia e compartilhamento de conhecimento.
+Currently focused on **robust, scalable, and user-centric** products. Comfortable on **AWS** and **GCP**, and happy to contribute as **Front-End**, **Back-End**, or **Full-Stack**—always with an eye on **performance, usability, and innovation**.
 
-<!--
-**leomontenegro2104/leomontenegro2104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Core Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Front-End:** React, Next.js, TypeScript, HTML/CSS
+* **Back-End:** Node.js, Python, FastAPI, Flask
+* **APIs & Data:** REST, GraphQL, SQL/NoSQL
+* **Cloud:** AWS, GCP
+* **Practices:** Clean Architecture, testing, CI/CD, code review
 
-<div align="center">
-  <a href="https://github.com/leomontenegro2104">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leomontenegro2104&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomontenegro2104&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+## 🔎 What I enjoy
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Leo-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <!--<img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
-</div>
-  
-  ##
-  
-  <div>
-     <a href="https://www.linkedin.com/in/leonardo-montenegro-693b30b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/leomontenegroreis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	  <!--<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>-->
-  <a href = "mailto:eng.leonardomontenegro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-  </div>
-  
-  <!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
+* Building **typed**, accessible UIs with great UX
+* Designing **API contracts** and predictable data flows
+* Improving **performance** (profiling, caching, CWV) & **developer experience**
+* Turning **complex requirements** into simple, durable solutions
+
+## 🤝 Open to
+
+* Front-End / Full-Stack roles
+* Collaborations on React/Next.js + Node/Python projects
+* Cloud-ready apps and API-driven products
+
+## 📫 Contact
+
+* **LinkedIn:** [https://www.linkedin.com/in/leomontenegro-software-engineer/](https://www.linkedin.com/in/leomontenegro-software-engineer/)
+* **Email:** eng.leonardomontenegro@gmail.com
+
+---
+
+**Skills:** ReactJS · TypeScript · NodeJS · Python · FastAPI · Flask · AWS · GCP
